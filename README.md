@@ -33,9 +33,3 @@
 | o | Todos os caminhos usados pelo botão apontam para C:\Imagens. |
 | p | A comparação entre projetos de grupos diferentes cabe ao professor. |
 | q | Os comentários das primitivas identificam os slides ou exercícios usados. |
-
-## Limitações do procedimento de aula
-
-- Use **um clique por execução**. Os bitmaps abertos podem bloquear os arquivos de saída. Para repetir o processamento, feche o programa e abra-o novamente.
-- Save(caminho) em um bitmap novo pode gravar conteúdo PNG com extensão .jpg. A extensão por si só não garante a codificação JPEG exigida no item e.
-- A junção usa a mesma comparação RGB nos três objetos. A tolerância é 120 para os fundos de céu e 20 para o fundo bege, cuja cor se aproxima da pele.
